@@ -1,0 +1,2 @@
+# ppshuaiquickproxy
+quick proxy global
